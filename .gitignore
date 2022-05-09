@@ -1,0 +1,10 @@
+target/
+project/target/
+project/project/
+*.iml
+*.ipr
+*.iws
+
+*.ninja
+.ninja_log
+.bsp/
